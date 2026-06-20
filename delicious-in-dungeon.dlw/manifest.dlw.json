@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "DELICIOUS IN DUNGEON",
+  "universe": "DUN · DELICIOUS IN DUNGEON (entertainment · anime-world)",
+  "emergence": "",
+  "moniker": "⟦DELICIOUS IN DUNGEON:DUN:5759a7⟧",
+  "carbon": "delicious-in-dungeon.carbon.tiff (TIFF)",
+  "silicon": "delicious-in-dungeon.silicon.png (PNG)",
+  "seal_sha256": "8fa8764c0de70423e53f00c94c6b857fe2680f8212edb91b8a55e0bdfb49f0de",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

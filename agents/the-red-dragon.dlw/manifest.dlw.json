@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Red Dragon",
+  "universe": "DUN · The Red Dragon (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Red Dragon:DUN:d96cb5⟧",
+  "carbon": "the-red-dragon.carbon.tiff (TIFF)",
+  "silicon": "the-red-dragon.silicon.png (PNG)",
+  "seal_sha256": "fac15ac32bb7290fdea7bd18197980b532d1c305eebad53af904885757bf33f2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Chilchuck",
+  "universe": "DUN · Chilchuck (entertainment)",
+  "emergence": "natural",
+  "moniker": "⟦Chilchuck:DUN:8a578a⟧",
+  "carbon": "chilchuck.carbon.tiff (TIFF)",
+  "silicon": "chilchuck.silicon.png (PNG)",
+  "seal_sha256": "6db3c06d96d37e5f577af5af45080bc53fe99f48e7893d6f790807383b65a3f2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

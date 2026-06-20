@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Labyrinth",
+  "universe": "DUN · The Labyrinth (entertainment)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Labyrinth:DUN:a1cb30⟧",
+  "carbon": "the-labyrinth.carbon.tiff (TIFF)",
+  "silicon": "the-labyrinth.silicon.png (PNG)",
+  "seal_sha256": "89d4b75f7baf3c0507f60da9ece8d60e93e6ecf8b0b85ed125192fe6dbd5d941",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

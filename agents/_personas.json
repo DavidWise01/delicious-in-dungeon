@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "laios",
+    "name": "Laios",
+    "epithet": "the swordsman who loves monsters · natural",
+    "emergence": "natural",
+    "moniker": "⟦Laios:DUN:118908⟧"
+  },
+  {
+    "slug": "marcille",
+    "name": "Marcille",
+    "epithet": "the squeamish mage · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Marcille:DUN:09b2f4⟧"
+  },
+  {
+    "slug": "chilchuck",
+    "name": "Chilchuck",
+    "epithet": "the cautious locksmith · natural",
+    "emergence": "natural",
+    "moniker": "⟦Chilchuck:DUN:8a578a⟧"
+  },
+  {
+    "slug": "senshi",
+    "name": "Senshi",
+    "epithet": "the dungeon-cooking dwarf · natural",
+    "emergence": "natural",
+    "moniker": "⟦Senshi:DUN:8d7d5a⟧"
+  },
+  {
+    "slug": "falin",
+    "name": "Falin",
+    "epithet": "the sister in the dragon · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Falin:DUN:0af335⟧"
+  },
+  {
+    "slug": "the-red-dragon",
+    "name": "The Red Dragon",
+    "epithet": "the loss at the bottom · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Red Dragon:DUN:d96cb5⟧"
+  },
+  {
+    "slug": "monster-cuisine",
+    "name": "Monster Cuisine",
+    "epithet": "eating the world · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Monster Cuisine:DUN:0de7fa⟧"
+  },
+  {
+    "slug": "the-labyrinth",
+    "name": "The Labyrinth",
+    "epithet": "the living dungeon · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Labyrinth:DUN:a1cb30⟧"
+  }
+]

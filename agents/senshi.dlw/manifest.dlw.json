@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Senshi",
+  "universe": "DUN · Senshi (entertainment)",
+  "emergence": "natural",
+  "moniker": "⟦Senshi:DUN:8d7d5a⟧",
+  "carbon": "senshi.carbon.tiff (TIFF)",
+  "silicon": "senshi.silicon.png (PNG)",
+  "seal_sha256": "d90555bb679e6acc38d7d1407897e531e13752b379b42ecc863c5fae6c4226d2",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
